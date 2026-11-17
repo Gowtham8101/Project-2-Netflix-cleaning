@@ -26,4 +26,4 @@ Developed an interactive Netflix dashboard using Power BI to analyze movies and 
 - Corrected data types using Power Query.
 
 ## 📸 Dashboard Preview
-![Netflix Dashboard](dashboard.png)
+![Netflix Dashboard](https://github.com/Gowtham8101/Project-2-Netflix-cleaning/blob/main/Project%202%20netflixx%20cleaning.png)
